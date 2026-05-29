@@ -51,7 +51,7 @@ projeto_reclamacoes_BC/
 │     ├── 04_evolucao_temporal.sql
 │     ├── 05_melhora_consistente.sql
 │     ├── 06_digital_vs_tradicional.sql
-│     ├── 07_porte_vs_indice.sqlh
+│     ├── 07_porte_vs_indice.sql
 │     ├── 08_irregularidades_sistemicas.sql
 │     └── 09_sazonalidade.sql
 └── dashboard/
