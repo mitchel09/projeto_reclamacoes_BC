@@ -37,7 +37,7 @@ As instituições financeiras priorizaram não ficar para trás na corrida digit
 ## Estrutura do Repositório
 
 ```
-projeto-reclamacoes-bc/
+projeto_reclamacoes_BC/
 ├── README.md
 ├── dados/
 │     ├── reclamacoes_limpo.csv
@@ -51,7 +51,7 @@ projeto-reclamacoes-bc/
 │     ├── 04_evolucao_temporal.sql
 │     ├── 05_melhora_consistente.sql
 │     ├── 06_digital_vs_tradicional.sql
-│     ├── 07_porte_vs_indice.sql
+│     ├── 07_porte_vs_indice.sqlh
 │     ├── 08_irregularidades_sistemicas.sql
 │     └── 09_sazonalidade.sql
 └── dashboard/
