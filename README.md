@@ -34,6 +34,35 @@ As instituições financeiras priorizaram não ficar para trás na corrida digit
 
 ---
 
+## Como Executar
+
+## Etapa 1 — Limpeza dos dados (Python)
+
+1. Clone o repositório:
+
+bashgit clone https://github.com/mitchel09/projeto_reclamacoes_BC.git
+
+2. Instale as dependências:
+
+bashpip install pandas matplotlib seaborn
+
+3. Abra o notebook no VS Code ou Jupyter e execute célula por célula:
+
+notebook/projeto_reclamacoes_bc.ipynb
+
+## Etapa 2 — Análise (SQL no BigQuery)
+
+1. Acesse o Google BigQuery
+2. Crie um dataset chamado reclamacoes_bc
+3. Faça upload dos arquivos reclamacoes_limpo.csv e irregularidades_limpo.csv como tabelas
+4. Execute as queries da pasta sql/ na ordem numérica
+
+## Etapa 3 — Dashboard (Tableau Public)
+Acesse o dashboard interativo diretamente pelo link abaixo, sem necessidade de instalação:
+🔗 Acessar Dashboard no Tableau Public
+
+---
+
 ## Estrutura do Repositório
 
 ```
@@ -121,3 +150,13 @@ Projeto desenvolvido como parte do portfólio de transição para a área de Ci�
 **Fonte dos Dados:** [Ranking de Reclamações do Banco Central do Brasil](https://www.bcb.gov.br/estabilidadefinanceira/rankingreclamacoes)
 
 **Período Analisado:** 2017 a 2023 (dados de 2024 e 2025 sinalizados como parciais)
+
+---
+
+## Autora
+## Michelly Natally
+
+[LinkedIn](https://www.linkedin.com/in/michelly-rodrigues-a7905797) • [GitHub](https://github.com/mitchel09)
+
+
+
