@@ -24,7 +24,7 @@ As instituições financeiras priorizaram não ficar para trás na corrida digit
 
 ---
 
-## Ferramentas Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 | Etapa | Ferramenta | Finalidade |
 |---|---|---|
@@ -32,9 +32,16 @@ As instituições financeiras priorizaram não ficar para trás na corrida digit
 | Análise | SQL no BigQuery | Nove análises estruturadas para responder às perguntas do projeto |
 | Visualização | Tableau Public | Dashboard interativo com os principais insights |
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-análise-lightgrey)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-notebook-orange)
+![SQL](https://img.shields.io/badge/SQL-BigQuery-blue)
+![BigQuery](https://img.shields.io/badge/Google-BigQuery-lightblue)
+![Tableau](https://img.shields.io/badge/Tableau-Public-lightblue)
+
 ---
 
-## Como Executar
+## ▶️ Como Executar
 
 ## Etapa 1 — Limpeza dos dados (Python)
 
@@ -63,7 +70,7 @@ Acesse o dashboard interativo diretamente pelo link abaixo, sem necessidade de i
 
 ---
 
-## Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
 ```
 projeto_reclamacoes_BC/
@@ -89,43 +96,43 @@ projeto_reclamacoes_BC/
 
 ---
 
-## Principais Insights
+## 💡 Principais Insights
 
-### 1. Bancos digitais lideram o ranking de piores índices
+### 📌 1. Bancos digitais lideram o ranking de piores índices
 
 Das dez instituições financeiras com maior índice médio de reclamações entre 2017 e 2023, sete são bancos digitais. O C6 Bank lidera com índice de 207,53, mais que o dobro do segundo colocado.
 
-### 2. Os problemas cresceram junto com a digitalização
+### 📌 2. Os problemas cresceram junto com a digitalização
 
 O índice médio de reclamações cresceu cerca de oito vezes entre 2017 (44,33) e 2021 (345,92). A pandemia intensificou uma tendência que já existia desde 2019, quando as fintechs começaram a ganhar escala significativa.
 
-### 3. Bancos digitais geram o dobro de problemas proporcionalmente
+### 📌 3. Bancos digitais geram o dobro de problemas proporcionalmente
 
 Embora os bancos tradicionais registrem maior volume absoluto de reclamações em razão de sua base de clientes muito maior, o índice médio dos bancos digitais é mais que o dobro dos tradicionais (101,43 contra 48,48). Isso significa que, proporcionalmente, o consumidor de banco digital tem o dobro de chance de ter uma reclamação confirmada pelo Banco Central.
 
-### 4. Os problemas são os mesmos para todos
+### 📌 4. Os problemas são os mesmos para todos
 
 As irregularidades mais frequentes, como segurança de operações, informação inadequada ao cliente e problemas com cartões de crédito, afetam tanto bancos digitais quanto tradicionais. O que muda entre os dois grupos não é o tipo de problema, mas a intensidade com que ocorre.
 
-### 5. Tamanho não é o problema
+### 📌 5. Tamanho não é o problema
 
 Os cinco maiores bancos tradicionais do Brasil (Caixa, Bradesco, Itaú, BB e Santander) somam mais de 300 milhões de clientes, mas apresentam índices entre 18 e 27. Os bancos digitais, com bases significativamente menores, apresentam índices que chegam a 207. Décadas de operação construíram estruturas proporcionais ao porte.
 
-### 6. Bancos tradicionais demonstram mais capacidade de evolução
+### 📌 6. Bancos tradicionais demonstram mais capacidade de evolução
 
 Das dez instituições que mais reduziram seu índice de reclamações entre 2017 e 2023, apenas uma é digital: o Original. Os bancos tradicionais demonstram, ao longo dos anos, maior capacidade de correção e maturidade operacional.
 
-### 7. O Nubank é a exceção positiva
+### 📌 7. O Nubank é a exceção positiva
 
 Em múltiplas análises, o Nubank apareceu como o banco digital com melhor desempenho proporcional. Isso indica que é possível crescer digitalmente com qualidade, mas essa não tem sido a regra do setor.
 
-### 8. Existe sazonalidade clara
+### 📌 8. Existe sazonalidade clara
 
 O segundo semestre concentra índices 80% maiores que o primeiro, possivelmente impulsionado pela Black Friday, festas de fim de ano e maior movimentação financeira do período.
 
 ---
 
-## Dashboard Interativo
+## 📊 Dashboard Interativo
 
 O dashboard completo com as principais visualizações está disponível no Tableau Public:
 
@@ -143,7 +150,7 @@ A hipótese central do projeto foi sustentada pelos dados em todas as análises 
 
 ---
 
-## Sobre
+## 🗂️ Sobre
 
 Projeto desenvolvido como parte do portfólio de transição para a área de Análise de Dados.
 
@@ -154,6 +161,7 @@ Projeto desenvolvido como parte do portfólio de transição para a área de An�
 ---
 
 ## Autora
+
 ## Michelly Natally
 
 [LinkedIn](https://www.linkedin.com/in/michelly-rodrigues-a7905797) • [GitHub](https://github.com/mitchel09)
