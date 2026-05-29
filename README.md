@@ -164,7 +164,7 @@ Projeto desenvolvido como parte do portfólio de transição para a área de An�
 
 ## Michelly Natally
 
-[LinkedIn](https://www.linkedin.com/in/michelly-rodrigues-a7905797) • [GitHub](https://github.com/mitchel09)
+[LinkedIn](https://www.linkedin.com/in/michelly-rodrigues-a7905797) • [GitHub](https://github.com/mitchel09) • [TableauPublic](https://public.tableau.com/app/profile/michelly.natally/vizzes)
 
 
 
