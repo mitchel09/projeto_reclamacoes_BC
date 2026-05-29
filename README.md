@@ -38,17 +38,17 @@ As instituições financeiras priorizaram não ficar para trás na corrida digit
 
 ## Etapa 1 — Limpeza dos dados (Python)
 
-1. Clone o repositório:
+### 1. Clone o repositório:
 
-bashgit clone https://github.com/mitchel09/projeto_reclamacoes_BC.git
+git clone https://github.com/mitchel09/projeto_reclamacoes_BC.git
 
-2. Instale as dependências:
+### 2. Instale as dependências:
 
-bashpip install pandas matplotlib seaborn
+ install pandas matplotlib seaborn
 
-3. Abra o notebook no VS Code ou Jupyter e execute célula por célula:
+### 3. Abra o notebook no VS Code ou Jupyter e execute célula por célula:
 
-notebook/projeto_reclamacoes_bc.ipynb
+ notebook/projeto_reclamacoes_bc.ipynb
 
 ## Etapa 2 — Análise (SQL no BigQuery)
 
@@ -145,7 +145,7 @@ A hipótese central do projeto foi sustentada pelos dados em todas as análises 
 
 ## Sobre
 
-Projeto desenvolvido como parte do portfólio de transição para a área de Ciência de Dados.
+Projeto desenvolvido como parte do portfólio de transição para a área de Análise de Dados.
 
 **Fonte dos Dados:** [Ranking de Reclamações do Banco Central do Brasil](https://www.bcb.gov.br/estabilidadefinanceira/rankingreclamacoes)
 
